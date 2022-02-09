@@ -1,3 +1,3 @@
 # Ant Design Table Demo
 
-This is a demo applications that uses react to display an Ant Design table with a dark theme
+This is a demo application that uses React to display an Ant Design table with a dark theme
